@@ -5,7 +5,7 @@ rm(list = ls())
 library(tidyverse)
 library(lubridate)
 library(stringr)
-setwd("/Users/amirmohareb/Desktop/OneDrive_1_5-14-2020")
+setwd("")
 ## Contents
 ## 1. Medications
 ## 2. Encounters
